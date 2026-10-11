@@ -2,8 +2,9 @@
 # Actividad 12: Implementación y Evaluación de Algoritmos de Búsqueda Informada (Greedy y A*)
 
 
-* **** Universidad Iberoamericana Puebla
+* **No.cuenta** 202216
 * **Trabajo** Actividad 12 - Búsqueda Informada
+* * **Por** Omar Reyes Gonzalez
 
 ---
 
