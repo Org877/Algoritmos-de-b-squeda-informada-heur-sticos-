@@ -4,7 +4,7 @@
 
 * **No.cuenta** 202216
 * **Trabajo** Actividad 12 - Búsqueda Informada
-* * **Por** Omar Reyes Gonzalez
+* **Por** Omar Reyes Gonzalez
 
 ---
 
